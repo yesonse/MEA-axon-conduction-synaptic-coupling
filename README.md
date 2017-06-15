@@ -1,5 +1,5 @@
 # Tools for Decoding Neuron Network in A Dish
-============================================
+============================================================
 
 Introduction
 ------------
@@ -10,12 +10,19 @@ By using the MEA recording data, we’ve developed some tools to study propagati
 
 Neurons use synapses to pass signal and form networks. We also studied synaptic coupling and identified the connections between neurons. Together with the data of pre-synaptic signals, we can decode the neuron network in each well, compare the neuronal activity, network connectivity and network activity between samples.
 
-This Tools :
+This Tools runs under Windows, Linux and Mac. It requires MATLAB 2016 (R2016a) or higher. It hase several modules including:
 
-- PS_modules, a Python module for interacting with multi-electrode data within Python. 
-- A command line script for spike detection/spike sorting.
-- [MEA Viewer](#mea-viewer), a Python application for high performance visualization of raw analog recordings and spike raster data.
-- [MEA Tools](#mea-tools-gui), a Python application which provides an easy to use interface to the spike detection/spike sorting routines provided by the command line script.
-- A Mathematica library for manipulating and analyzing analog and spike data.
 
-## Installation
+
+How-to
+------
+
+#### Installation
+
+
+#### Basic Instructions
+
+
+#### Input Files
+
+#### Output Files
