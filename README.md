@@ -22,7 +22,7 @@ Matlab
 
 #### Basic Instructions
 
-#### 1) Spike detection and sorting
+##### 1) Spike detection and sorting
         Sorting_info.m
 #### 2) Propagation signal detection 
         PS_hist_time.m
