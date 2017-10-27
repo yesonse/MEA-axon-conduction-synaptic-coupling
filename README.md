@@ -18,11 +18,21 @@ How-to
 ------
 
 #### Installation
-
+Matlab 
 
 #### Basic Instructions
+1 #spike detection
+
+2 #
+
+3
 
 
 #### Input Files
 
+HDF5 file from
+
+
 #### Output Files
+
+1 
