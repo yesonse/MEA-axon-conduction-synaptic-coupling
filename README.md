@@ -45,4 +45,5 @@ HDF5 files from cluster
 3 ps.pdf
 
 4 ps_well.pdf
+
  ![image](https://github.com/yesonse/MEA-axon-conduction-synaptic-coupling/raw/master/ps_img/Screen Shot 2017-10-27 at 10.24.56 AM.png)
