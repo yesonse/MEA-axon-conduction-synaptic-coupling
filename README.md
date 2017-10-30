@@ -23,9 +23,11 @@ Matlab
 #### Basic Instructions
 
 ##### 1) Spike detection and sorting
-        Sorting_info.m
+        Sorting_info(input,output)
+        input and output is address, input is where you store HDF5 files, and output is where you store the generated data
 ##### 2) Propagation signal detection 
-        PS_hist_time.m
+        PS_hist_time
+        identify pairwise conduction signal, input is the output of function Sorting_info
 ##### 3) simplify PS network to single PS and visualization                                                                           
         output_PS_ORDER.m       
 ##### 4) visualize neuron in a dish                                                                                                       
