@@ -29,13 +29,15 @@ Matlab
         PS_hist_time
         identify pairwise conduction signal, input is the output of function Sorting_info
 ##### 3) simplify PS network to single PS and visualization                                                                           
-        output_PS_ORDER.m       
+        output_PS_ORDER
+        generate single identified PS, it includes .dat file and .pdf file
 ##### 4) visualize neuron in a dish                                                                                                       
-        output_ps_well.m
+        output_ps_well
+        generate real location of a neuron in a well
 
 #### Input Files
 
-HDF5 files from cluster
+HDF5 files
 
 
 #### Output Files
