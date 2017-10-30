@@ -28,10 +28,10 @@ Matlab
 ##### 2) Propagation signal detection 
         PS_hist_time
         identify pairwise conduction signal, input is the output of function Sorting_info
-##### 3) simplify PS network to single PS and visualization                                                                           
+##### 3) Simplify PS network to single PS and visualization                                                                           
         output_PS_ORDER
         generate single identified PS, it includes .dat file and .pdf file
-##### 4) visualize neuron in a dish                                                                                                       
+##### 4) Visualize neuron in a dish                                                                                                       
         output_ps_well
         generate real location of a neuron in a well
 
